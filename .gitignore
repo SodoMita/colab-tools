@@ -1,0 +1,9 @@
+*.o
+*.log
+*.bak*
+.env
+__pycache__/
+*.pyc
+wayland-xorg-bridge/xfbridge
+wayland-xorg-bridge/xdg-shell-client-protocol.h
+wayland-xorg-bridge/xdg-shell-protocol.c
